@@ -13,7 +13,7 @@
 
 The data job market is often fragmented, with details scattered across many sources. This dashboard is designed for **job seekers, career changers, and professionals exploring new opportunities**. It leverages a 2024 dataset of data science job postings—including roles, salaries, and locations—to deliver a concise, single-page view of market trends and compensation insights.
 
-### Dashboard File
+## Dashboard File
 Download the dashboard file here: [Power_BI_Dashboard_Job_Market_Insights.pbix](Power_BI_Dashboard_Job_Market_Insights.pbix)  
 
 ## Skills Demonstrated
