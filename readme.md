@@ -25,10 +25,10 @@ This project highlights practical use of Power BI features:
 * **Data Modeling:** Applying star schema principles to build efficient models and relationships.  
 * **DAX:** Writing measures and calculations to extract insights.  
 * **Visualizations:**  
-  * **Core charts**: column, bar, line, and area  
-  * **Maps**: geospatial analysis  
-  * **Cards**: key metrics and KPIs  
-  * **Tables**: detailed tabular views  
+  * Core charts: column, bar, line, and area  
+  * Maps: geospatial analysis  
+  * Cards: key metrics and KPIs  
+  * Tables: detailed tabular views  
 * **Interactivity:**  
   * Slicers for dynamic filtering  
   * Buttons and bookmarks for navigation and drill-through  
