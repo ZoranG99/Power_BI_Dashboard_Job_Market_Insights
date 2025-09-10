@@ -1,0 +1,7 @@
+# Ignore contents of Data and Resources
+/Data/*
+/Resources/*
+
+# Keep placeholders so folders exist
+!/Data/.gitkeep
+!/Resources/.gitkeep
